@@ -1,8 +1,8 @@
 ### 😁👋😁 Hi! My name is Margaret Diaz and here are some facts about me! 😁👋😁
-💻 I'm currently working as a Summer Fellow @ MLH and an AI scholar for BreakThrough Tech @ Cornell Tech
-🎓 I'm a CS Major and Spanish Minor at Hunter CUNY - graduating in Fall 2024
-💕 My favorite programming languages are C++ and Python
-⚡ Interests: Tennis🎾 Jigsaw Puzzles🧩 My pets 🐈🐶 Writing short stories ✍
+- 💻 I'm currently working as a Summer Fellow @ MLH and an AI scholar for BreakThrough Tech @ Cornell Tech
+- 🎓 I'm a CS Major and Spanish Minor at Hunter CUNY - graduating in Fall 2024
+- 💕 My favorite programming languages are C++ and Python
+- ⚡ Interests: Tennis🎾 Jigsaw Puzzles🧩 My pets 🐈🐶 Writing short stories ✍
 
 <!--
 **MargaretDiaz4570/MargaretDiaz4570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
